@@ -1,7 +1,20 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c4d047a95e4b1f74a633e6997e19e5db4d1ca40cdf3790335f6aaea2b2166b63"
+            "sha256": "013dc700ec567cdb3db4e8347736a26aa4d89b6043399c2acf568060b18cf02d"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.6.3",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "17.7.0",
+            "platform_system": "Darwin",
+            "platform_version": "Darwin Kernel Version 17.7.0: Tue Feb 18 22:51:29 PST 2020; root:xnu-4570.71.73~1/RELEASE_X86_64",
+            "python_full_version": "3.6.3",
+            "python_version": "3.6",
+            "sys_platform": "darwin"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -17,25 +30,19 @@
     },
     "default": {
         "django": {
-            "hashes": [
-                "sha256:69897097095f336d5aeef45b4103dceae51c00afa6d3ae198a2a18e519791b7a",
-                "sha256:6ecd229e1815d4fc5240fc98f1cca78c41e7a8cd3e3f2eefadc4735031077916"
-            ],
-            "index": "pypi",
+            "hashes": [],
             "version": "==2.2.12"
         },
+        "psycopg2-binary": {
+            "hashes": [],
+            "version": "==2.8.3"
+        },
         "pytz": {
-            "hashes": [
-                "sha256:a494d53b6d39c3c6e44c3bec237336e14305e4f29bbf800b599253057fbb79ed",
-                "sha256:c35965d010ce31b23eeb663ed3cc8c906275d6be1a34393a1d73a41febf4a048"
-            ],
+            "hashes": [],
             "version": "==2020.1"
         },
         "sqlparse": {
-            "hashes": [
-                "sha256:022fb9c87b524d1f7862b3037e541f68597a730a8843245c349fc93e1643dc4e",
-                "sha256:e162203737712307dfe78860cc56c8da8a852ab2ee33750e33aeadf38d12c548"
-            ],
+            "hashes": [],
             "version": "==0.3.1"
         }
     },
