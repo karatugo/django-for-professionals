@@ -1,0 +1,50 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d64d261e8be7c2f66a22844abfdd150b17706eedf8b0507fe717f688c035d1d2"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.6.3",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "17.7.0",
+            "platform_system": "Darwin",
+            "platform_version": "Darwin Kernel Version 17.7.0: Tue Feb 18 22:51:29 PST 2020; root:xnu-4570.71.73~1/RELEASE_X86_64",
+            "python_full_version": "3.6.3",
+            "python_version": "3.6",
+            "sys_platform": "darwin"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django": {
+            "hashes": [],
+            "version": "==2.2.12"
+        },
+        "psycopg2-binary": {
+            "hashes": [],
+            "version": "==2.8.4"
+        },
+        "pytz": {
+            "hashes": [],
+            "version": "==2020.1"
+        },
+        "sqlparse": {
+            "hashes": [],
+            "version": "==0.3.1"
+        }
+    },
+    "develop": {}
+}
