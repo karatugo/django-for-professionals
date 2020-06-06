@@ -11,7 +11,7 @@ verify_ssl = true
 
 [packages]
 
-django = "==2.2.12"
+django = "==2.2.13"
 "psycopg2-binary" = "==2.8.4"
 
 
